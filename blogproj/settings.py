@@ -135,4 +135,6 @@ STATICFILES_DIRS = [
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'index'
+
+# El modelo de usuario que estamos utilizando
 AUTH_USER_MODEL = 'users.User'
