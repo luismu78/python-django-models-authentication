@@ -15,3 +15,9 @@ D
 blogproj/urls.py,d/e/de4aed7861d3af94a475cf71eb09ad41efc673ef
 C
 templates/base.html,d/a/da7c237b85a69c00a9ab8c189bf63e22070fcac3
+@
+mainapp/admin.py,5/8/58551cc09545a31015fde50d68e90e760dba8bfb
+@
+mainapp/views.py,1/9/1997e8f99c2a39900e9b501bf982cdc27af444aa
+A
+mainapp/models.py,2/a/2a662f50fb1772df699ea2145f57f115deade4a8
